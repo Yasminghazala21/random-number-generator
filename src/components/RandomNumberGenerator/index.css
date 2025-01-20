@@ -1,0 +1,73 @@
+/* Write your CSS here */
+.random-number-generator-main-bg-container {
+  background-image: url('https://assets.ccbp.in/frontend/react-js/random-no-generator-bg.png');
+  min-height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.random-number-generator-inner-bg-container {
+  width: 60vw;
+  height: 70vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+  background-color: #ffffff;
+  border-radius: 10px;
+  box-shadow: 0px 4px 16px 0px #bfbfbf;
+  padding: 20px 50px 20px 50px;
+}
+
+.random-number-generator-main-heading {
+  color: #0b69ff;
+  font-family: 'Roboto';
+  font-size: 36px;
+}
+
+.random-number-generator-note {
+  color: #333333;
+  font-family: 'Roboto';
+  font-size: 21px;
+  font-weight: 700;
+}
+
+.random-number-generator-generate-button {
+  border-width: 0;
+  border-radius: 8px;
+  background-color: #0b69ff;
+  color: #ffffff;
+  padding: 10px 12px 10px 12px;
+  font-size: 18px;
+  font-family: 'Roboto';
+  cursor: pointer;
+  outline: none;
+}
+
+.random-number-generator-value {
+  color: #0b69ff;
+  font-family: 'Roboto';
+  font-size: 60px;
+}
+
+@media screen and (max-width: 767px) {
+  .random-number-generator-inner-bg-container {
+    padding: 10px 20px 10px 20px;
+  }
+  .random-number-generator-main-heading {
+    font-size: 20px;
+  }
+  .random-number-generator-note {
+    font-size: 11px;
+  }
+  .random-number-generator-generate-button {
+    border-radius: 5px;
+    padding: 6px 8px 6px 8px;
+    font-size: 10px;
+  }
+  .random-number-generator-value {
+    font-size: 30px;
+  }
+}
