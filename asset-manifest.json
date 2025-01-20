@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/user-profiles/static/css/main.cb63e937.chunk.css",
-    "main.js": "/user-profiles/static/js/main.def6d6d9.chunk.js",
-    "main.js.map": "/user-profiles/static/js/main.def6d6d9.chunk.js.map",
-    "runtime-main.js": "/user-profiles/static/js/runtime-main.b955e898.js",
-    "runtime-main.js.map": "/user-profiles/static/js/runtime-main.b955e898.js.map",
-    "static/js/2.e0c214e3.chunk.js": "/user-profiles/static/js/2.e0c214e3.chunk.js",
-    "static/js/2.e0c214e3.chunk.js.map": "/user-profiles/static/js/2.e0c214e3.chunk.js.map",
-    "index.html": "/user-profiles/index.html",
-    "static/css/main.cb63e937.chunk.css.map": "/user-profiles/static/css/main.cb63e937.chunk.css.map",
-    "static/js/2.e0c214e3.chunk.js.LICENSE.txt": "/user-profiles/static/js/2.e0c214e3.chunk.js.LICENSE.txt"
+    "main.css": "/random-number-generator/static/css/main.cb63e937.chunk.css",
+    "main.js": "/random-number-generator/static/js/main.def6d6d9.chunk.js",
+    "main.js.map": "/random-number-generator/static/js/main.def6d6d9.chunk.js.map",
+    "runtime-main.js": "/random-number-generator/static/js/runtime-main.ecb2da1f.js",
+    "runtime-main.js.map": "/random-number-generator/static/js/runtime-main.ecb2da1f.js.map",
+    "static/js/2.e0c214e3.chunk.js": "/random-number-generator/static/js/2.e0c214e3.chunk.js",
+    "static/js/2.e0c214e3.chunk.js.map": "/random-number-generator/static/js/2.e0c214e3.chunk.js.map",
+    "index.html": "/random-number-generator/index.html",
+    "static/css/main.cb63e937.chunk.css.map": "/random-number-generator/static/css/main.cb63e937.chunk.css.map",
+    "static/js/2.e0c214e3.chunk.js.LICENSE.txt": "/random-number-generator/static/js/2.e0c214e3.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.b955e898.js",
+    "static/js/runtime-main.ecb2da1f.js",
     "static/js/2.e0c214e3.chunk.js",
     "static/css/main.cb63e937.chunk.css",
     "static/js/main.def6d6d9.chunk.js"
